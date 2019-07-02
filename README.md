@@ -1,3 +1,3 @@
 
-Extracting the "IMBD top 250 movies".
+Extracting the "IMDB top 250 movies".
 
